@@ -1,0 +1,3 @@
+/Users/danylrymar/CLionProjects/devops/cmake-build-debug/CMakeFiles/devops.dir
+/Users/danylrymar/CLionProjects/devops/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danylrymar/CLionProjects/devops/cmake-build-debug/CMakeFiles/rebuild_cache.dir

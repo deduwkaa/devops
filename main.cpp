@@ -3,6 +3,13 @@
 
 int main() {
     FuncA func;
-    std::cout << "Initial function result: " << func.calculate() << std::endl;
+    int n;
+    double x;
+    std::cout << "Enter the number of terms (n): ";
+    std::cin >> n;
+    std::cout << "Enter the value of x: ";
+    std::cin >> x;
+
+    std::cout << "Function result: " << func.calculate(n, x) << std::endl;
     return 0;
 }
